@@ -4,18 +4,23 @@
 - 📫 You can reach me va my LinkedIn in my profile bio.
 
 ##Porjects to add to repo:
+
 ###ML Bootcamp
 * 10 - 911 porject sol
 * 10- finance Project
+
 regressions
 * 11- Linear reg
 * 12- Logistic regression
 * 17 - Kmeans Clustering
 * 20 - NLP review cateogrizing
 * 22- Tensorflow and Deep learning
-###UEFA Match predictior
-###Kaggle Titanic
-###100 Day
+  
+UEFA Match predictior
+
+Kaggle Titanic
+
+100 Day
 * 17 -quiz game
 * 20 - sanke game
 * 23 - turtle crossing
